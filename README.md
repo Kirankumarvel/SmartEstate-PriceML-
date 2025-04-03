@@ -73,7 +73,7 @@ python main.py
 - ✅ Deploy model using Flask or FastAPI
 
 📌 **Contributors**
-- 👤 Your Name - [GitHub Profile](https://github.com/kirankumarvel)
+- 👤 Kiran Kumar  - [GitHub Profile](https://github.com/kirankumarvel)
 
 📩 Feel free to contribute or raise an issue!
 
