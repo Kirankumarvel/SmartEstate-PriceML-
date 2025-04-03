@@ -46,8 +46,7 @@ After training the models, we compare their performance based on MSE and R² Sco
 
 The project provides scatter plots comparing actual vs predicted values for better insights. Example:
 
-![Actual vs Predicted](![image](https://github.com/user-attachments/assets/49751d22-1972-431e-b1e1-a94a4a76ad98)
-)
+![[Actual vs Predicted](https://github.com/user-attachments/assets/49751d22-1972-431e-b1e1-a94a4a76ad98)])
 
 ⚡ **Installation & Usage**
 
